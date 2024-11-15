@@ -22,7 +22,4 @@ I'm currently learning Programming.
 ![](https://github-profile-trophy.vercel.app/?username=NoelShaji001&theme=gotham&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NoelShaji001&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="https://tenor.com/bqS2d.gif">
+[![](https://visitcount.itsvg.in/api?id=NoelShaji001&icon=0&color=12)](https://visitcount.itsvg.in
