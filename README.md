@@ -1,4 +1,4 @@
-## Hi there 👋
+## Wassup,guys👋
 
 <br>
 
@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-I'm currently learning Programming.
+Hey  y'all I'm a young  professional.
 
 
 ## 🌐 Socials:
