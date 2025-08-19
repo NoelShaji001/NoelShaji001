@@ -2,9 +2,9 @@
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCDGlXck9vLvev-FcVywlGZpKLlaDeT2Isig&s" width=500>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCDGlXck9vLvev-FcVywlGZpKLlaDeT2Isig&s" width=1000>
 # 💫 About Me:
 Hey  y'all I'm a young  professional.
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
